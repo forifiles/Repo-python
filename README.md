@@ -1,3 +1,3 @@
 # Repo-python
 Interactive dictionery
-This is an interactive commandline dictionery
+This is a cool interactive commandline dictionery
